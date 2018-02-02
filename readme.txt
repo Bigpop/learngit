@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 
 Creating a new brach is quick and simple.
 
+bug -101 fixed.
